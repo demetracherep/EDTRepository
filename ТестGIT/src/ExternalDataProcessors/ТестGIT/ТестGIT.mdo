@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:ExternalDataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="4f379e1e-c83d-42ef-9484-79df02dbbd54">
+  <producedTypes>
+    <objectType typeId="36f9d4e0-8db5-42a3-9f48-b4c30492a7fc" valueTypeId="6213fa69-c953-406f-8e9d-0edc4ab298fc"/>
+  </producedTypes>
+  <name>ТестGIT</name>
+  <synonym>
+    <key>ru</key>
+    <value>Тест GIT</value>
+  </synonym>
+  <containedObjects classId="c3831ec8-d8d5-4f93-8a22-f9bfae07327f" objectId="8b80f0ed-e138-41c6-8e71-7dca43d79115"/>
+  <defaultForm>ExternalDataProcessor.ТестGIT.Form.Форма</defaultForm>
+  <forms uuid="ef0ecc38-799a-4f40-9d4c-59a99408ac1b">
+    <name>Форма</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+</mdclass:ExternalDataProcessor>
